@@ -1,7 +1,7 @@
-# **Code 201 Reading Notes** 
+# Code 201 Reading Notes
 
 This Website was made to store all of my notes for Code 201.
 
-### _Reading Assignments_
+### Reading Assignments
 
-* [HTML CSS & JavaScript](/reading-notes-201/HCJ.md)
+[HTML CSS & JavaScript](/reading-notes-201/markdown.md)
