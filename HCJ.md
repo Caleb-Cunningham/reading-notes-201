@@ -1,0 +1,5 @@
+# HTML CSS & JavaScript
+<p>These three programming languages are the core to web development.</p>
+<p>There are alot of things you can do with each on of these programs.</p>
+<p>HTML Puts the contents of your website on display while CSS is the design.</p>
+<p>This leaves JavaScript. JavaScript Is what runs the website all the buttons and ways you interact are done through this language.</p>
