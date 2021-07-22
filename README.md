@@ -15,4 +15,9 @@ While reading the HTML and CSS book I found some new commands that I didn't know
 
 ### HTML Lists, Control Flow with JS, and the CSS Box Model.
 
-While I read through this I noted many things like the lists in HTML you can do Unordered lists and ordered list. But we already know all of that, what I learnmed from this was that there were definiton list and nested list.
+While I read through this I noted many things like the lists in HTML you can do Unordered lists and ordered list. But we already know all of that, what I learnmed from this was that there were definiton list and nested list. You can also add boxes for your text in CSS you can add different colors to them and change overall the whole website layout. JS talks about arrays and arrays are used for storing things like variables or text you can output these arrays in different ways. This also talks about While loops and For loops While loops are used to keep a loop going endlessly until you forcibly end it while for loops on the other had go for however long you tell it to.
+
+
+### HTML Links, JS Functions, and Intro to CSS Layout
+
+In HTML you can add links to things like emails and other sites or you can link to other pages on that specific site. CSS you can drastically adjust the website you can do pretty crazy designs you can adjust page sizes, use fixed width layouts, and use liquid layouts all these layouts have their own design so I will be sure to expirement with them. JS teaches us about functio. Functions let you group a series of statements together to perform a specific task. The article given today talked about pair programming. It focused on the pros of pair programming, that being Increased efficiency, social skills, and more.
