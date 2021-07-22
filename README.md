@@ -21,3 +21,8 @@ While I read through this I noted many things like the lists in HTML you can do 
 ### HTML Links, JS Functions, and Intro to CSS Layout
 
 In HTML you can add links to things like emails and other sites or you can link to other pages on that specific site. CSS you can drastically adjust the website you can do pretty crazy designs you can adjust page sizes, use fixed width layouts, and use liquid layouts all these layouts have their own design so I will be sure to expirement with them. JS teaches us about functio. Functions let you group a series of statements together to perform a specific task. The article given today talked about pair programming. It focused on the pros of pair programming, that being Increased efficiency, social skills, and more.
+
+
+### Images, Color, Text
+
+You can add images to your code using the _img_ command you can do many more things with images like resizing and changing the placement of them. You can also add colors with CSS you can add colors to everything including backgrounds and text. You can chagne the font of your text in CSS and the size as well as being able to underline specific words.
