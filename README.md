@@ -26,3 +26,9 @@ In HTML you can add links to things like emails and other sites or you can link 
 ### Images, Color, Text
 
 You can add images to your code using the _img_ command you can do many more things with images like resizing and changing the placement of them. You can also add colors with CSS you can add colors to everything including backgrounds and text. You can chagne the font of your text in CSS and the size as well as being able to underline specific words.
+
+
+### Problem Domain, Objects, and the DOM
+
+Objects group together a set variable and functions to create a model of something you would recognize in the real world. in an object, variables and functions take on new names
+The document object model (or DOM for short) is used to medel an HTML page.
