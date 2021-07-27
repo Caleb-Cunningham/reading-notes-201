@@ -32,3 +32,8 @@ You can add images to your code using the _img_ command you can do many more thi
 
 Objects group together a set variable and functions to create a model of something you would recognize in the real world. in an object, variables and functions take on new names
 The document object model (or DOM for short) is used to medel an HTML page.
+
+
+### Object-Oriented Programming, HTML Tables
+
+A table represents information in a grid format. you can structure a table with stuff like the _Table_ command and the _tr_ command. Theres also different types of tables like Long tables and normal tables. In this chapter we talked about objects and objects are used to store information like someones age for example. You can use objects for a lot of things like storing them in arrays and displaying info.
