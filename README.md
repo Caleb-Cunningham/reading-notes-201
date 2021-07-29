@@ -37,3 +37,8 @@ The document object model (or DOM for short) is used to medel an HTML page.
 ### Object-Oriented Programming, HTML Tables
 
 A table represents information in a grid format. you can structure a table with stuff like the _Table_ command and the _tr_ command. Theres also different types of tables like Long tables and normal tables. In this chapter we talked about objects and objects are used to store information like someones age for example. You can use objects for a lot of things like storing them in arrays and displaying info.
+
+
+### Forms and JS Events
+
+The term _Form_ has referred to a printed document that let's you put information inside of it. Forms are like a searchbox where you type in information to find something you can also use it for making passwords using drop down boxes and uploading files. This adds a whole new layer of functionality to your website. CSS Has alot more style potential than I once thought. Upon reading this I saw there was bullet point styles and and you can style forms. And it doesn't stop there there's s many commands and things you can change CSS is a crucial language to learn if you want to design any website from the ground up. JS Talks about _Events_ and what Events are is everyhting that happens when you interact with a webpage. For example, When you do things like reload the page that's an Event.
